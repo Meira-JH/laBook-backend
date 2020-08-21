@@ -5,11 +5,17 @@ LaBook is a back-end development of an imaginary social network. It is an activi
 This back-end consists of an API constructed with Typescript and MySQL languages, using NodeJS as development environment, Express as NodeJS framework for API construction and communicating with Database through Knex's query builder.
 
 The back-end performs the following functions:
+
 :small_orange_diamond: SignUp and Login of users through token authentication (both access and refresh token);
+
 :small_orange_diamond: bilateral friendship interaction;
+
 :small_orange_diamond: feed requisition returning only friends posts or posts filtered by posts types;
+
 :small_orange_diamond: feed pagination;
+
 :small_orange_diamond: posting of texts and url based pictures requisition;
+
 :small_orange_diamond: comment requisition;
 
 
