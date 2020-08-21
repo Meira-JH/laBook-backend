@@ -19,7 +19,7 @@ This was a collective effort imagined, executed and revised by Natalia Acedo, Ga
 
 <p align="center">
 <img width="35px" src="https://raw.githubusercontent.com/remojansen/logo.ts/master/ts.jpg"/>
-<img width="35px" src="https://miro.medium.com/max/2732/1*CLf2MbiumJ4rjRvaZtMWig.png"/>
+<img height="35px" src="https://miro.medium.com/max/2732/1*CLf2MbiumJ4rjRvaZtMWig.png"/>
 <img width="40px" src="https://github.com/Meira-JH/portfolio/blob/master/portfolio-web/src/img/mysqlicon.png"/>
 </p>
 
