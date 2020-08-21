@@ -20,7 +20,7 @@ This was a collective effort imagined, executed and revised by Natalia Acedo, Ga
 <p align="center">
 <img width="35px" src="https://github.com/Meira-JH/portfolio/blob/master/portfolio-web/src/img/nodejsicon.png"/>
 <img width="35px" src="https://raw.githubusercontent.com/remojansen/logo.ts/master/ts.jpg"/>
-<img height="35px" src="https://github.com/Meira-JH/portfolio/blob/master/portfolio-web/src/img/mysqlicon.png"/>
+<img width="40px" src="https://github.com/Meira-JH/portfolio/blob/master/portfolio-web/src/img/mysqlicon.png"/>
 <img height="35px" src="https://github.com/MarioTerron/logo-images/blob/master/logos/expressjs.png"/>
 </p>
 
