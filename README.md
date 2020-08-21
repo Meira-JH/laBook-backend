@@ -24,8 +24,6 @@ This was a collective effort imagined, executed and revised by Natalia Acedo, Ga
 <img height="35px" src="https://github.com/MarioTerron/logo-images/blob/master/logos/expressjs.png"/>
 </p>
 
-https://github.com/Meira-JH/portfolio/blob/master/portfolio-web/src/img/nodejsicon.png
-
 <p  style="font-size:5px; text-align:left">
 <i>Icons by <a href="https://github.com/jalbertsr/logo-badge-images">Joan Albert</a></i>
 </p>
