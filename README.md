@@ -55,7 +55,7 @@ npm run dev
 
 ## Code architecture :computer:
 
-This code was designed concerned with clean code, TS best practices and Model-View-Controller (MVC) design pattern. The source foulder is devided in:
+This code was designed concerned with clean code, TS best practices and Model-View-Controller (MVC) design pattern. The source folder is devided in:
 
 :small_blue_diamond: **contoller layer**: folder containing Typescript files responsible for receiving requisitions data and directing them to the necessary layers;
 
