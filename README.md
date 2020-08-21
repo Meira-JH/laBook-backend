@@ -18,10 +18,13 @@ This was a collective effort imagined, executed and revised by Natalia Acedo, Ga
 ## Tools and technologies :wrench:
 
 <p align="center">
+<img width="35px" src="https://github.com/Meira-JH/portfolio/blob/master/portfolio-web/src/img/nodejsicon.png"/>
 <img width="35px" src="https://raw.githubusercontent.com/remojansen/logo.ts/master/ts.jpg"/>
 <img height="35px" src="https://github.com/MarioTerron/logo-images/blob/master/logos/expressjs.png"/>
-<img width="40px" src="https://github.com/Meira-JH/portfolio/blob/master/portfolio-web/src/img/mysqlicon.png"/>
+<img height="35px" src="https://github.com/Meira-JH/portfolio/blob/master/portfolio-web/src/img/mysqlicon.png"/>
 </p>
+
+https://github.com/Meira-JH/portfolio/blob/master/portfolio-web/src/img/nodejsicon.png
 
 <p  style="font-size:5px; text-align:left">
 <i>Icons by <a href="https://github.com/jalbertsr/logo-badge-images">Joan Albert</a></i>
